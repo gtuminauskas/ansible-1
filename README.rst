@@ -115,3 +115,6 @@ See `COPYING <COPYING>`_ to see the full text.
 .. |CII Best Practices| image:: https://bestpractices.coreinfrastructure.org/projects/2372/badge
    :target: https://bestpractices.coreinfrastructure.org/projects/2372
    :alt: Ansible CII Best Practices certification
+.. |CII Best Practices22| image:: https://bestpractices.coreinfrastructure.org/projects/2372/badge
+   :target: https://bestpractices.coreinfrastructure.org/projects/2372
+   :alt: Ansible CII Best Practices certification22
